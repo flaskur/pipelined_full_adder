@@ -1,0 +1,2 @@
+## Pipelined Full Adder
+### This is a repo for a 128 bit full adder implementation in verilog. The parts are corresponding to structural/behavioral and nonpipelined/pipelined approaches to the problem.
